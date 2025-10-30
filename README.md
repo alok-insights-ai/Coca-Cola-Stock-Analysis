@@ -15,3 +15,6 @@ The dataset
 
 ![image_alt](https://github.com/alok-insights-ai/Coca-Cola-Stock-Analysis/blob/main/Screenshot%202025-10-29%20150145.png)
 ![image_alt](https://github.com/alok-insights-ai/Coca-Cola-Stock-Analysis/blob/main/Screenshot%202025-10-29%20150153.png)
+
+To see the complete project i am giving you to the link of my project just click and see
+[click here](https://github.com/alok-insights-ai/Coca-Cola-Stock-Analysis/blob/main/coca%20cola%20complete%20project.pdf)
