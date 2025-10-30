@@ -9,9 +9,9 @@ I have used the ML Models like using LSTM, SVR, SGD, Random Forest, and Decision
 
 The alternatives i Have considered Exploring additional models like ARIMA, XGBoost, or ensemble methods for potential improvement in forecasting accuracy.
 The dataset
-[link]
+[link](https://github.com/alok-insights-ai/Coca-Cola-Stock-Analysis/blob/main/Coca-Cola_stock_history%20(1).csv)
 
 
 
-[image_alt](https://github.com/alok-insights-ai/Coca-Cola-Stock-Analysis/blob/main/Screenshot%202025-10-29%20150145.png)
-[image_alt](https://github.com/alok-insights-ai/Coca-Cola-Stock-Analysis/blob/main/Screenshot%202025-10-29%20150153.png)
+![image_alt](https://github.com/alok-insights-ai/Coca-Cola-Stock-Analysis/blob/main/Screenshot%202025-10-29%20150145.png)
+![image_alt](https://github.com/alok-insights-ai/Coca-Cola-Stock-Analysis/blob/main/Screenshot%202025-10-29%20150153.png)
